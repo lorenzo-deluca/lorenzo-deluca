@@ -10,7 +10,7 @@ I'm an experienced Solution Engineer specializing in industry automation, IoT in
 ## GitHub Stats
 [![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzo-deluca&show_icons=true&theme=dracula&rank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-deluca&layout=compact&theme=onedarkrank_icon=github&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-deluca&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support
 If you like this project you can support me with :coffee: , with **GitHub Sponsor** or simply put a :star: to my repos :blush:
