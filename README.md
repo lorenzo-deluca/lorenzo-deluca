@@ -1,9 +1,13 @@
 # Hello, I'm Lorenzo De Luca! 👋
-
+I’m a software developer with a passion for clean code, open-source projects, and continuous learning. Welcome to my GitHub profile!
 <img src="https://raw.githubusercontent.com/lorenzo-deluca/lorenzo-deluca/output/snake.svg" alt="" />
 
-I'm an experienced Solution Engineer specializing in industry automation, IoT integration, supervision, and monitoring. I primarily work with Microsoft technologies, such as C# and the .NET Core framework, and am currently learning Azure cloud computing services. I also utilize Docker and containers in my projects. 
+I've experience Solution Engineer specializing in industry automation, IoT integration, supervision, and monitoring. 
+I primarily work with Microsoft technologies, such as C# and the .NET Core framework, and am currently learning Azure cloud computing services. I also utilize Docker and containers in my projects. 
 
+## About Me
+- 🔭 I’m currently working on various iOT smart home projects.
+- 🌱 I’m learning more about microservices architecture and containerization with Docker and Kubernetes.
 - 👯 I’m looking to collaborate on open-source projects. 
 - 💬 Ask me about IoT, industry automation, or cloud services. 
 
