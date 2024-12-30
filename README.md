@@ -2,7 +2,7 @@
 I’m a software developer with a passion for clean code, open-source projects, and continuous learning. Welcome to my GitHub profile!
 <img src="https://raw.githubusercontent.com/lorenzo-deluca/lorenzo-deluca/output/snake.svg" alt="" />
 
-Experienced Solution Engineer with 15+ years in designing and integrating enterprise systems across **multiple industries**.
+Experienced Solution Engineer with 15+ years in designing and integrating enterprise systems across **multiple industries**.\
 I've experience Solution Engineer specializing in **industry automation**, **iOT** integration, supervision, and monitoring.\
 I primarily work with Microsoft technologies, such as **C#** and the **.NET Core** framework, and am currently learning **Azure cloud** computing services.\
 I embrace modern paradigms like Microservice Architecture and Containers, always open to **continuous change** and improvement, particularly in **Cloud and IIoT** domains.
