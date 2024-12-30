@@ -8,7 +8,7 @@ I'm an experienced Solution Engineer specializing in industry automation, IoT in
 - 💬 Ask me about IoT, industry automation, or cloud services. 
 
 ## GitHub Stats
-[![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzo-deluca&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Lorenzo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lorenzo-deluca&show_icons=true&theme=dracula&rank_icon=github&hide_border=true)]
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-deluca&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
