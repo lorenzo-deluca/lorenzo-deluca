@@ -1,12 +1,11 @@
-# Hello, I'm Lorenzo De Luca! 👋
+<div align="center">
+  <h1>Lorenzo De Luca</h1>
+  <h3>Senior Solution Engineer & Architect</h3>
+  <p><i>Bridging the gap between Industrial Automation and Cloud-Native Innovation</i></p>
 
-<img src="https://raw.githubusercontent.com/lorenzo-deluca/lorenzo-deluca/output/snake.svg" alt="" />
-
-> **Senior Solution Engineer & Architect**
-> *Bridging the gap between Industrial Automation and Cloud-Native Innovation*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-code.lorenzodeluca.dev-blue?style=for-the-badge&logo=google-chrome)](https://code.lorenzodeluca.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo_De_Luca-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-de-luca)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-code.lorenzodeluca.dev-blue?style=for-the-badge&logo=google-chrome)](https://code.lorenzodeluca.dev)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo_De_Luca-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-de-luca)
+</div>
 
 ---
 
