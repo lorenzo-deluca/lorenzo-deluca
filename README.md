@@ -42,12 +42,8 @@ I am a continuous learner, always exploring the latest in **Smart Home** tech an
 <br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=lorenzo-deluca&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" alt="Lorenzo's Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-deluca&layout=compact&theme=onedark&hide_border=true" height="180" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lorenzo-deluca&show_icons=true&theme=dracula&rank_icon=github&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lorenzo-deluca&layout=compact&theme=onedark&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
